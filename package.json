@@ -1,0 +1,12 @@
+{
+  "name": "graph-accesstoken",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "@microsoft/microsoft-graph-client": "^2.0.0",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
