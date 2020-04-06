@@ -16,7 +16,7 @@ async function getEvents(accessToken) {
 
 (async () => {
   console.log('get events start')
-  var accessToken = 'XXXXXXXXXX'
+  var accessToken = 'XXXXXXXX'
   await getEvents(accessToken)
   console.log('get events end')
 })()
