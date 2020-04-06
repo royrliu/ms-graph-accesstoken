@@ -10,5 +10,3 @@ node.js command line program of use microsoft graph by access token.
 
 ``` $ npm start ``` 
 
-$ npm start
-```
