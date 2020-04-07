@@ -15,7 +15,7 @@ reference
 - [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-overview) 
 - [Microsoft identity platform code samples (v2.0 endpoint)](https://docs.microsoft.com/en-us/azure/active-directory/develop/sample-v2-code) 
 
-why not use [azure-activedirectory-library-for-nodejs] to get the accessToken? 
+why not use [azure-activedirectory-library-for-nodejs](https://github.com/AzureAD/azure-activedirectory-library-for-nodejs) to get the accessToken? 
 
     1. It can not use. It has a open issue. 
       https://github.com/AzureAD/azure-activedirectory-library-for-nodejs/issues/215 
@@ -28,14 +28,15 @@ why not use node.js?
 * Current MSAL is not support node.js. 
 
 ### 2. use graph client to get the calendar events by accessToken.  (use node.js or java)
-  node.js command line program 
-    https://github.com/royrliu/ms-graph-accesstoken 
 
-  reference of node.js 
-    [Build Node.js Express apps with Microsoft Graph](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp/tree/master/Demos/03-add-msgraph) 
+node.js command line program 
+- https://github.com/royrliu/ms-graph-accesstoken 
+
+reference of node.js 
+- [Build Node.js Express apps with Microsoft Graph](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp/tree/master/Demos/03-add-msgraph) 
   
-  reference of node.js 
-    [msgraph-training-java](https://github.com/microsoftgraph/msgraph-training-java/tree/master/demos/03-add-msgraph/graphtutorial) 
+reference of node.js 
+- [msgraph-training-java](https://github.com/microsoftgraph/msgraph-training-java/tree/master/demos/03-add-msgraph/graphtutorial) 
 
 ### Installation
 
