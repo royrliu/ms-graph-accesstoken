@@ -7,7 +7,7 @@ node.js command line program of use microsoft graph by access token.
 
 ### 1.get the accessToken by MSAL (use java or .net or python)
 
-Use [MSAL for Java (MSAL4J)](https://github.com/AzureAD/microsoft-authentication-library-for-java)
+Use [A Java sample of a browserless app using the device code flow to get tokens to call Microsoft Graph API](https://github.com/Azure-Samples/ms-identity-java-devicecodeflow)
 
 reference 
 
